@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubUserNaviAPI</string>
+    <string name="github_users">GitHub Users</string>
+    <string name="example_name">User01</string>
+    <string name="exam_followers">0 Followers</string>
+    <string name="hyphen">-</string>
+    <string name="exam_followings">0 Followings</string>
+    <string name="exam_location">Indonesia</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="exam_bio">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</string>
+    <string name="kunjungi_github">Kunjungi GitHub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="github_logo">github logo</string>
+    <string name="setting">Theme Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="tambah_favorit">Tambah Favorit</string>
+    <string name="hapus_favorit">Hapus Favorit</string>
+    <string name="favorite_user">Favorite User</string>
+</resources>
